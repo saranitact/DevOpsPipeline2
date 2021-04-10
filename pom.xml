@@ -12,7 +12,7 @@
         <id>releases</id>
         <name>Releases</name>
         <url>
-https://maven.pkg.github.com/saranitact/DevOpsPipeline</url>
+https://maven.pkg.github.com/saranitact/DevOpsPipeline2</url>
     </repository>
  </distributionManagement>
   <dependencies>
