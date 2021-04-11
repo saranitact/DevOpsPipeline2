@@ -4,7 +4,7 @@
   <groupId>com.devops</groupId>
   <artifactId>devopspipelinetwo</artifactId>
   <packaging>war</packaging>
-  <version>v2</version>
+  <version>v3</version>
   <name>DevOps Pipeline</name>
   <url>http://maven.apache.org</url>
  <distributionManagement>
