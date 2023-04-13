@@ -2,9 +2,17 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
  
-  <groupId>com.mycompany.app</groupId>
+<!--  <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version> -->
+  
+  <groupId>com.devops</groupId>
+  <artifactId>DevopsPipeline2</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-RELEASE</version>
+  <name>DevOps Pipeline2</name>
+  <url>http://maven.apache.org</url>
+   
  
   <properties>
     <maven.compiler.source>1.7</maven.compiler.source>
